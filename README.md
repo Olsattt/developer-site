@@ -2,5 +2,5 @@
 это страница сайта
 
 ---
-permalink: /index.html
+permalink: /main.html
 ---
